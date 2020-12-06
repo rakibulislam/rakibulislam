@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![K M Rakibul Islam's github stats](https://github-readme-stats.vercel.app/api?username=rakibulislam&show_icons=true&theme=radical&count_private=true)
+![K M Rakibul Islam's github stats](https://github-readme-stats.vercel.app/api?username=rakibulislam&show_icons=true&count_private=true)
